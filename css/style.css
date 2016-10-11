@@ -1,0 +1,38 @@
+* { box-sizing: border-box; }
+
+html, body {
+  height: 100%;
+  width: 80%;
+  margin: auto auto;
+  padding: 0;
+  font-size: 17px;
+  background: #e0e0e0;
+  color: #000;
+  text-align: center;
+}
+
+img {
+  padding: 10px;
+  height: 250px;
+  width: 250px;
+}
+
+.contenido{
+  background-color: white;
+  margin: 10px;
+}
+
+.estudios {
+  text-align: justify;
+  width: 90%;
+}
+
+.cursos {
+  text-align: center;
+  width: 80%;
+  padding-left: 30px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
